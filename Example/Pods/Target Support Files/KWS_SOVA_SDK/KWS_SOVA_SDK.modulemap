@@ -1,0 +1,6 @@
+framework module KWS_SOVA_SDK {
+  umbrella header "KWS_SOVA_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

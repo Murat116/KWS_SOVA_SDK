@@ -1,0 +1,22 @@
+{
+  "name": "KWS_SOVA_SDK",
+  "version": "0.1.0",
+  "summary": "A short description of KWS_SOVA_SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Камалов Мурат/KWS_SOVA_SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Камалов Мурат": "kamalov@nanosemantics.ai"
+  },
+  "source": {
+    "git": "https://github.com/Камалов Мурат/KWS_SOVA_SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "KWS_SOVA_SDK/Classes/**/*"
+}
